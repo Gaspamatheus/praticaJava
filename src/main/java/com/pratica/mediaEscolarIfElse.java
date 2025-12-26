@@ -2,7 +2,7 @@ package com.pratica;
 
 import java.util.*;
 
-public class mediaEscolar {
+public class mediaEscolarIfElse {
     public static void main(String[] args) {
         // faça primeiro a média
         Scanner scanner = new Scanner(System.in);

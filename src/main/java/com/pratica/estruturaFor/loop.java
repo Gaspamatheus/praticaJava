@@ -1,4 +1,4 @@
-package com.pratica.estruturaMaisFacil;
+package com.pratica.estruturaFor;
 
 public class loop {
     public static void main(String[] args) {

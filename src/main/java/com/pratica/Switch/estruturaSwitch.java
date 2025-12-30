@@ -1,4 +1,4 @@
-package com.pratica.estruturasMaisDificil;
+package com.pratica.Switch;
 
 import java.util.Scanner;
 

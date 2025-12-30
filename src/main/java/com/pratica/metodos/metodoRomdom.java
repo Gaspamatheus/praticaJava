@@ -1,8 +1,8 @@
-package com.pratica.outrasEStruturas;
+package com.pratica.metodos;
 
 import java.util.Random;
 
-public class metosoRomdom {
+public class metodoRomdom {
     public static void main(String[] args) {
 
         Random random = new Random();

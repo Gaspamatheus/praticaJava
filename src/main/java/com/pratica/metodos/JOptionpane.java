@@ -1,4 +1,4 @@
-package com.pratica.outrasEStruturas;
+package com.pratica.metodos;
 import javax.swing.JOptionPane;
 import java.lang.String;
 

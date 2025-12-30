@@ -1,4 +1,4 @@
-package com.pratica.estruturasMaisDificil;
+package com.pratica.WhileDoWhile;
 
 import javax.swing.*;
 import java.util.Random;

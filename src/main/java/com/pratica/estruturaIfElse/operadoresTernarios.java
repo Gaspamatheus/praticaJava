@@ -1,4 +1,4 @@
-package com.pratica.estruturaMaisFacil;
+package com.pratica.estruturaIfElse;
 /* estrutura
     (condição) ? verdaira : falsa
 

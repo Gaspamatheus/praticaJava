@@ -1,4 +1,4 @@
-package com.pratica;
+package com.pratica.estruturaMaisFacil;
 
 import java.util.Scanner;
 

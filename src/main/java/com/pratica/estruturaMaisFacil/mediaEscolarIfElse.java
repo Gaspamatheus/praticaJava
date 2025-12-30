@@ -1,12 +1,8 @@
-package com.pratica;
-/* estrutura
-    (condição) ? verdaira : falsa
+package com.pratica.estruturaMaisFacil;
 
-    declara variavel como string e faz acondicional
- */
-import java.util.Scanner;
+import java.util.*;
 
-public class operadoresTernarios {
+public class mediaEscolarIfElse {
     public static void main(String[] args) {
         // faça primeiro a média
         Scanner scanner = new Scanner(System.in);
@@ -24,7 +20,11 @@ public class operadoresTernarios {
 
         System.out.println("A média é: " + media);
 
-        String resultadoAluno = (media >= 7) ? "aprovado" : "reprovado";
-        System.out.println(resultadoAluno);
+        if (media >= 7){
+            System.out.println("aprovado");
+        } else {
+            System.out.println("reprovado");
+        }
     }
 }
+// presta atenção no idioma do teclado
